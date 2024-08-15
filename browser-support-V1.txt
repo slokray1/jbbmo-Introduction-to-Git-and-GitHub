@@ -1,0 +1,1 @@
+browser-support:Chrome, Firefox, Edge
